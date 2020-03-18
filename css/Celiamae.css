@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+header{
+    background: rgb(74,10,119);
+    background: linear-gradient(90deg, rgba(74,10,119,1) 0%, rgba(65,76,136,1) 45%, rgba(57,138,152,1) 100%);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+h1, h2{
+    font-family: 'Chelsea Market', cursive;
+}
+header h1{
+    padding-top: 5px;
+    color: white;
+    font-size: 60px;
+
+}
+
+header img{
+    border-radius: 300px;
+    width: 300px;
+    border: 15px solid white
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    max-width: 800px;
+}
+
+h2{
+    font-size: 30px;
+    color: #512e8e;
+    margin: 40px 0 10px;
+}
+
+a{
+    color: #398a98;
+}
+a:hover{
+    color: #512e8e;
+} 
+
+footer{
+    background: rgb(74,10,119);
+    background: linear-gradient(90deg, rgba(74,10,119,1) 0%, rgba(65,76,136,1) 45%, rgba(57,138,152,1) 100%);
+    text-align: center;
+    color: white;
+    padding: 50px;
+    font-size: 15px;
+}
+
+footer p{
+    margin: 0px;
+}
+footer a{
+    color: ghostwhite;
+}
+
+footer a:hover{
+    color: #398a98;
+}
